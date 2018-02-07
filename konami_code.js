@@ -11,7 +11,7 @@ input.addEventListener('keydown', function(e){
     index++;
  
     if (index === code.length) {
-      alert("KONAMI CODE SON");
+      alert("Hurray!");
  
       index = 0;
     }
